@@ -1,0 +1,46 @@
+{
+  "name": "Jonny Test Collection #9",
+  "symbol": "JNYTST",
+  "description": "test collection for nft project",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "https://jonnyxu.netlify.app/",
+  "edition": 9,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "background1"
+    },
+    {
+      "trait_type": "Base",
+      "value": "base3"
+    },
+    {
+      "trait_type": "Body",
+      "value": "body1"
+    },
+    {
+      "trait_type": "Head",
+      "value": "head1"
+    },
+    {
+      "trait_type": "Hands",
+      "value": "hands3"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "5rYvAtybNRmHXBWaQzKhWRd5qvzWpyQ8qFvHVWECrNUd",
+        "share": 100
+      }
+    ]
+  }
+}
